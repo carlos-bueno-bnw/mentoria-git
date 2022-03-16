@@ -8,3 +8,4 @@ echo "Pexie";
 echo "Casa";
 echo "Ricardo";
 echo "Eu não sei falar";
+echo "Adicionado";
