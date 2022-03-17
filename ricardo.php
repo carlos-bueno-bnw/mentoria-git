@@ -1,2 +1,3 @@
 <?php
-echo "É legal";
+echo "É legal. ";
+echo "é da hora mesmo.";
