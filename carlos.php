@@ -10,3 +10,4 @@ for($x = 0; $x < 3; $x++) {
 echo "Casa";
 echo "Ricardo";
 echo "Eu não sei falar";
+echo "Adicionado";
